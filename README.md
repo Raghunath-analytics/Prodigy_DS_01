@@ -6,23 +6,21 @@ This project visualizes the distribution of total population across countries fo
 ## 📁 Dataset Description
 
 - **Source:** World Bank
-- 
+  
+- <a href="https://github.com/Raghunath-analytics/Prodigy_DS_01/blob/main/API_SP.POP.TOTL_DS2_en_csv_v2_389828.csv">Dataset</a>
+- <a href="https://github.com/Raghunath-analytics/Prodigy_DS_01/blob/main/Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_389828.csv">Dataset</a>
+- <a href="https://github.com/Raghunath-analytics/Prodigy_DS_01/blob/main/Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_389828.csv">Dataset</a>
 
----
 
 ## 📊 Objective
 
 To understand how the population is distributed among countries in 2023 by plotting a histogram.
-
----
 
 ## 🛠️ Tools Used
 
 - Python 🐍
 - Pandas 📊
 - Matplotlib 📈
-
----
 
 ## 📌 Steps Followed
 
@@ -32,7 +30,11 @@ To understand how the population is distributed among countries in 2023 by plott
 4. **Plot a histogram** using `matplotlib` to visualize distribution.
 5. **Interpret the result** to identify skewness and outliers.
 
----
-
 ## 📷 Output
+- <a href="https://github.com/Raghunath-analytics/Prodigy_DS_01/blob/main/Screenshot.jpeg">Preview</a>
 
+📈 Interpretation
+
+- Most countries have smaller populations.
+- A few countries like India and China stand out with very large populations.
+- The distribution is right-skewed due to a small number of highly populous nations.
